@@ -1,9 +1,10 @@
-Current version of my resume. Downloadable as either PDF or LaTeX.
+You have found the resume repository for Andrew Choens (Andy).
 
-Thanks to Michael DeCorte for making the style template available. He
-owns the copyright on the style (res.cls).
+Although I GPL most of what I create, I chose the Artistic License for
+my resume. You are welcome to use my resume as a guide to using
+Michael DeCorte's res.cls document class, but it still MY resume.
 
-I claim the copyright on _my_ resume. Feel free to use this as a
-starting point for your own LaTeX-based resume. If you use this,
-please change all of the relevant specifics. I'd rather not meet my
-resume-clone someday. 
+Thankyou to Michael DeCorte for making the style template
+available. He owns the copyright on the res.cls document class. The
+Artistic License I claim on the .tex and .pdf files do NOT apply to
+his res.cls file.
