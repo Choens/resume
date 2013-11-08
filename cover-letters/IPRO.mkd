@@ -1,0 +1,114 @@
+To whom it may concern,
+
+I would like to take this opportunity to apply for the Healthcare Data
+Analyst / Programmer position I saw posted on the IPRO website. I am
+applying for this position because I believe my background, experience
+and computer skills make me an ideal candidate for this
+position. There are two things I want you to know about me:
+
+  1. I am an experienced policy analyst.
+  2. I am a computer programmer.
+
+The rest of this cover letter will connect these these facts to the
+opem position and IPRO more broadly.
+
+
+1. Policy Analyst
+---------------------------------------- 
+
+For the past seven years I have worked at Hornby Zeller Associates
+(HZA), a human services consulting firm in Troy, NY. HZA specializes
+in child welfare, elder care, juvenile justice and mental health. As a
+senior policy analyst, I am involved in all aspects of HZA's work flow
+from start to finish. I contribute to proposals, usually by developing
+the research the methodology. I participate in both data collection,
+and analysis. But my most import role is when I meet with our
+stakeholders. Like IPRO, HZA helps state agencies implement complex
+new programs. Success means more than writing a good
+evaluation. Success is best achieved when decisions makers are
+empowered to use the results found in the report to make decisions
+that improve outcomes. I succeed because I am comfortable sitting at
+the nexus of program implementation and evaluation.
+
+Program implementation in the health care setting is similar to
+program implementation in any other human services organization. In
+both cases, policy decisions affect outcomes. Outcomes affect
+people. A useful analysis is more than just statistically
+significant. It has to help a program administrator make policy
+decisions that positively affect clients. I would like to bring this
+perspective and skill to my role at IPRO.
+
+Recent projects include
+(organized by type):
+
+  * __Program / Systems Evaluation:__ Arkansas (IV-E Waiver), West
+    Virginia (Jacob's Law), Alaska (Mental Health Beneficiary Program)
+  * __Time-Studies:__ Virginia, Westchester County, NY, Wisconsin
+  * __Title IV-E Funding:__ Wisconsin, Georgia, Mississippi
+
+I want to highlight one recent project that highlights my experience
+working with complex relational data. The Alaska Department of
+Corrections (DOC) had anecdotal evidence that felons with mental
+health problems recidivate at a higher rate than similar felons
+without an mental health problems. HZA used state records from mental
+health, child welfare, juvenile justice and the adult criminal justice
+system to identify current and past felons with known mental health
+histories. We developed a prospective study to look at a cohort of
+felons. HZA's analysis shows that felons with a history of mental
+health diagnoses are considerably more likely to return to DOC care in
+the first 12 months after release and they do so more quickly than
+their counterparts. We then provided the state with recommendations on
+how the state could identify these individuals, giving the state the
+ability to target these felons with additional services and community
+resources upon release.
+
+
+2. Computer Programmer
+---------------------------------------- 
+
+The changes required by the Affordable Care Act will require both
+program implementation and programming. I believe my application is
+made stronger by the fact that I am comfortable with both. The Alaska
+DOC project I mentioned earlier is a good example of how computers and
+program implementation often go hand in hand and how my ability to
+connect the dots between program and computers contributes to a better
+analysis. DOC wanted to reimplement supportive services for felons
+with mental health challenges that were canceled during the tenure of
+Sarah Palin. But, they wanted to implement the right services and they
+wanted to target the right felons. The analysis required both data
+management and statistics. The hard part was managing and structuring
+the data. The analysis was comparatively easy.
+
+We pulled data extracts from multiple state agencies. These extracts
+were not designed to be cross-referenced and in many cases were
+relational data tables pulled right out of their administrative data
+system. I hosted the data on a local Postgres server and developed a
+system to identify felons across data systems. We used these views to
+build our statistical models. We were eventually able to show which
+types of mental illness correlate with higher recidivism and we were
+able to make concrete recommendations for the types of services we
+thought would help prevent these individual from reentering DOC
+care. We also taught the state how they could cross-reference these
+systems so the state could effectively reproduce our research
+results. More importantly, they could implement policy and software
+changes to make it easier for this iinformation to flow into DOC so
+the state could better target these supportive services to the felons
+who need them most. 
+
+
+Conclusion
+----------------------------------------
+
+I would like to schedule a time to discuss this position with you in
+person. I am equal parts social worker, policy analyst and computer
+programmer and I genuinely believe I can contribute to IPRO's
+projects. I believe an analysis is most successful when it can be used
+to make policy decisions that result in better outcomes. If I am
+offered an opportunity to interview for this position, I would like to
+discuss the types of outcomes you are looking to help the state
+achieve and how these can be measured. I can be contacted at (518) 275
+- 5984.
+
+Thank you for your consideration.
+
+-- Andy Choens

@@ -1,0 +1,9 @@
+Current version of my resume. Downloadable as either PDF or LaTeX.
+
+Thanks to Michael DeCorte for making the style template available. He
+owns the copyright on the style (res.cls).
+
+I claim the copyright on _my_ resume. Feel free to use this as a
+starting point for your own LaTeX-based resume. If you use this,
+please change all of the relevant specifics. I'd rather not meet my
+resume-clone someday. 
