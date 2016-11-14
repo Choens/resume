@@ -26,18 +26,17 @@ Accomplishments:
     utilization of Medicaid enrollees who agreed to receive care
     management services.
 
--   Monitored HEDIS quality metrics as listed in New York State’s SPA
-    for the 1115 waiver program.
+-   Monitored HEDIS quality metrics as listed in New York State’s SPA.
 
 -   Developed a novel methodology to measure pre-post
     enrollee utilization.
 
--   Redesigned the Health Home - Care Management Assessment Reporting
-    Tool (HH-CMART).
+-   Redesigned the Health Home - Care Management Assessment
+    Reporting Tool.
 
 -   Developed the [Titanic Introduction To
-    R](http://choens.github.io/titanic/) to introduce DOH research
-    scientists to the R programming language.
+    R](http://choens.github.io/titanic/) workshops to introduce DOH
+    research scientists to the R programming language.
 
 Hornby Zeller Associates (HZA) is a consulting firm specializing in
 child welfare, elder care, juvenile justice, and mental health. As a
@@ -58,20 +57,19 @@ Example projects:
 
 Accomplishments:
 
--   Started an internship program and supervised intern.
+-   Started an internship program and supervised two interns.
 
 -   Developed templates and processes to automate the production
     of reports.
 
--   Provided ongoing training and support for junior staff learning how
-    to manage and structure administrative and research data in tools
-    such as PostgreSQL, SQL Server, R and SPSS.
+-   Provided staff training & support for PostgreSQL, SQL Server, R,
+    and SPSS.
 
 -   Mentored junior staff in of research methods and application of
     statistical tests.
 
--   Introduced the use of version control for analytic code resulting in
-    more reliable, reproducible results.
+-   Introduced version control resulting in more reliable,
+    reproducible results.
 
 Principal Investigator for an exploratory research project which
 established the existence of homeless men and women with borderline
@@ -79,12 +77,10 @@ intellectual functioning in New York State homeless shelters.
 
 Accomplishments:
 
--   Obtained IRB Approval.
-
 -   Demonstrated the validity of the Mini Mental Status Exam to identify
     homeless adults with borderline intellectual functioning.
 
--   Recruited, trained and supervised a team of BSW students.
+-   Recruited, trained, and supervised a team of BSW students.
 
 -   Interviewed over 150 homeless New Yorkers. Successfully identified
     homeless adults with a historical diagnosis of borderline
@@ -98,7 +94,7 @@ CLINICAL EXPERIENCE
 
 Delivered in-home services to Albany residents with mental retardation
 and other developmental disabilities. Services included family support,
-socialization skills and crisis counseling.
+socialization skills, and crisis counseling.
 
 Worked with homeless guests to find housing and income in the form of
 jobs or social services such as SSD. Addressed other needs on a
@@ -109,16 +105,17 @@ shelter. Surveyed guests in the shelter during the winter of 2005 -
 Supervised an outdoor experiential program for teens with developmental
 disabilities and mental health diagnoses. Responsibilities included
 staff supervision and program development. Implemented a unique peer
-support program using conference calls. Led multi-day canoe trips on
-Indian Lake. Led family / team building activities including low and
-high ropes facilitation.
+support program for high-risk teens using conference calls. Led
+multi-day canoe trips on Indian Lake in the Adirondacks. Facilitated
+team building activities including low and high ropes facilitation.
 
 RESEARCH TOOLS
 ==============
 
 <span>l l</span> <span>**Data Analysis:**</span> R, Python, SAS, SPSS,
 Excel\
-<span>**Data Management:**</span> PostgreSQL, MySQL, SQL Server, Access\
+<span>**Data Management:**</span> PostgreSQL, MySQL, Vertica, SQL
+Server, Access\
 <span>**Reproducible Research:**</span> LaTeX, Sweave, knitr, Org-Mode\
 
 EDUCATION
@@ -130,8 +127,8 @@ of New York at Albany & Albany, NY 2007\
 Bachelor of International Affairs & Georgia Institute of Technology &
 Atlanta, GA 2002
 
-Updated: 2015-02-03\
+Updated: 2016-11-13\
 LaTeXversion of this document available at:
 <https://github.com/Choens/Resume/>
 
-[^1]: Now called the Office for People with Developmental Disabilities.
+[^1]: Now called the Office for People With Developmental Disabilities.
