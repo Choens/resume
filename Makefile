@@ -14,5 +14,5 @@ projects: projects.tex
 	pandoc -o 'Andy Choens - Example Projects.md' projects.tex
 
 clean:
-	rm *cls *log
-	rm cover-letters/*cls cover-letters/*log
+	rm -f *.aux *.cls *.log  *.out
+	rm -f cover-letters/*.aux cover-letters/*.cls cover-letters/*.log cover-letters/*.out
