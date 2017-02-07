@@ -1,7 +1,7 @@
 all: cover-letters, resume, projects
 
 cover-letters: cover-letters/PRAInc.tex
-	lualatex cover-letters/PRAInc.tex
+	lualatex --output-directory=cover-letters cover-letters/PRAInc.tex
 
 resume: resume.tex
 	lualatexx resume.tex
