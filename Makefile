@@ -12,3 +12,7 @@ projects: projects.tex
 	lualatex projects.tex
 	mv projects.pdf 'Andy Choens - Example Projects.pdf'
 	pandoc -o 'Andy Choens - Example Projects.md' projects.tex
+
+clean:
+	rm *cls *log
+	rm cover-letters/*cls cover-letters/*log
