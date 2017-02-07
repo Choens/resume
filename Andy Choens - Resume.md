@@ -20,13 +20,13 @@ and Inpatient utilization risk factors.
 
 Accomplishments:
 
--   Monitored Emergency Department, Inpatient, and Primary Care
+-   Monitor Emergency Department, Inpatient, and Primary Care
     utilization of Medicaid enrollees who agreed to receive care
     management services.
 
--   Monitored HEDIS quality metrics as listed in New York State’s SPA.
+-   Report HEDIS quality metrics as listed in New York State’s SPA.
 
--   Developed a novel methodology to measure pre-post
+-   Developing a new approach to measuring pre-post
     enrollee utilization.
 
 -   Redesigned the Health Home - Care Management Assessment Reporting
