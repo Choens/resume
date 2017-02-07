@@ -1,24 +1,22 @@
 RESEARCH EXPERIENCE
 ===================
 
-Embedded consultant with the New York State Department of Health. I am
-responsible for leading a team of analysts in evaluating care management
-in New York State and advising policy makers on how use these programs
-to improve the health of vulnerable New Yorkers. This includes working
-with external evaluators and internal stakeholders to understand and
-improve the delivery of care management services.
+Supervise the evaluation of New York State’s diverse Care Management
+programs. Includes working with external program evaluators and internal
+stakeholders to understand the impact and effectiveness of Care
+Management programs and how to improve these services.
 
-Evaluation responsibilities include Care Management programs
-administered by the Medicaid Managed Care Plans (plan-led) and Health
-Homes. Plan-led care management programs are an intervention for people
-with moderately complex health care needs who may have higher than
-average utilization of emergency and inpatient services. Health Homes
-are a more intensive care management program for enrollees with highly
-complex health care needs. Health Home enrollees have a history of high
-utilization of emergency, high-cost services. Health Homes provide
-continuous, integrated health care services to improve participant’s
-health and well-being while reducing unnecessary utilization of
-inpatient and emergency department services.
+Responsibilities include the Care Management programs administered by
+the Medicaid Managed Care Plans and Health Homes. Care Management
+programs are an administrative and case management intervention for
+people with complex health care needs and high utilization of emergency
+and inpatient services. Care Management programs provide continuous,
+integrated supportive, and preventative health care services intended to
+improve participants’ health and well-being while reducing the
+unnecessary utilization of inpatient and emergency department services.
+
+Actively working with staff on reports regarding Emergency Department
+and Inpatient utilization risk factors.
 
 Accomplishments:
 
@@ -31,10 +29,12 @@ Accomplishments:
 -   Developed a novel methodology to measure pre-post
     enrollee utilization.
 
--   Redesigned the Health Home - Care Management Assessment
-    Reporting Tool.
+-   Redesigned the Health Home - Care Management Assessment Reporting
+    Tool: [HH CMART3
+    Specifications (PDF)](https://www.health.ny.gov/health_care/medicaid/program/medicaid_health_homes/assessment_quality_measures/docs/hh_cmart_specs_v3.pdf).
 
--   Developed the [Titanic Introduction To
+-   As a leading member of the Epidemiology and Biostatistics Community
+    of Practice (EBCoP), developed the [Titanic Introduction To
     R](http://choens.github.io/titanic/) workshops to introduce DOH
     research scientists to the R programming language.
 
@@ -127,7 +127,7 @@ of New York at Albany & Albany, NY 2007\
 Bachelor of International Affairs & Georgia Institute of Technology &
 Atlanta, GA 2002
 
-Updated: 2016-11-13\
+Updated: 2017-01-10\
 LaTeXversion of this document available at:
 <https://github.com/Choens/Resume/>
 
