@@ -5,11 +5,13 @@
 \documentclass{letter}
 \usepackage[dvipsnames]{xcolor}
 \usepackage[english]{babel}
+\usepackage{float}
+\usepackage{graphicx}
 \usepackage{hyperref}
 \hypersetup{colorlinks=true,linkbordercolor=Blue,linkcolor=Blue, urlcolor=Blue}
 \usepackage[margin=1.0in]{geometry}
 
-\signature{Andy Choens}
+%\signature{Andy Choens}
 \address{{\bf Applicant:} Andy Choens \\ {\bf Postion:} Research
   Associate \\ {\bf Email:} \underline{andy.choens@gmail.com} \\ Phone: (518) 275 - 5984}
 
@@ -66,10 +68,12 @@ niche there. If you would like to schedule an in-person interview, I
 can be reached by email (\underline{andy.choens@gmail.com}) or phone
 (518-275-5984).
 
-\closing{Thank You For Your Consideration,}
+\closing{Thank You for your consideration,\\
+\fromsig{\includegraphics[scale=1]{signature.png}} \\
+\fromname{Andy Choens}
+}
 
 \ps
-
 \encl{Andy Choens - Resume.pdf, Andy Choens - Example Projects.pdf}
 
 A copy of this cover-letter and attachments, in \LaTeX, can be found at: \\
