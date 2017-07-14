@@ -1,42 +1,48 @@
-RESEARCH EXPERIENCE
-===================
+DATA SCIENCE EXPERIENCE:
+========================
 
-Supervise the evaluation of New York State’s diverse Care Management
+Embedded consultant with the New York State Department of Health.
+Supervise the evaluation of the State’s diverse care management
 programs. Includes working with external program evaluators and internal
-stakeholders to understand the impact and effectiveness of Care
-Management programs and how to improve these services.
+stakeholders to understand the impact and effectiveness of care
+management programs and how to improve them.
 
-Responsibilities include the Care Management programs administered by
-the Medicaid Managed Care Plans and Health Homes. Care Management
-programs are an administrative and case management intervention for
-people with complex health care needs and high utilization of emergency
-and inpatient services. Care Management programs provide continuous,
-integrated supportive, and preventative health care services intended to
-improve participants’ health and well-being while reducing the
-unnecessary utilization of inpatient and emergency department services.
-
-Actively working with staff on reports regarding Emergency Department
-and Inpatient utilization risk factors.
+Responsibilities include care management programs administered by the
+Medicaid Managed Care Plans and Health Homes. Care management programs
+are an administrative (case management) intervention for people with
+complex health care needs and high utilization of emergency and
+inpatient services. Care management programs provide integrated,
+supportive, and preventative health care services intended to improve
+participants’ health and well-being while reducing the unnecessary
+utilization of inpatient and emergency department services.
 
 Accomplishments:
 
 -   Monitor Emergency Department, Inpatient, and Primary Care
     utilization of Medicaid enrollees who agreed to receive care
-    management services.
+    management services. Includes program improvement and
+    pre-post analyses.
 
--   Report HEDIS quality metrics as listed in New York State’s SPA.
+-   Supervise the development and reporting of HEDIS quality metrics as
+    listed in New York State’s SPA to State Agency Partners, Health
+    Homes and CMS.
 
--   Developing a new approach to measuring pre-post
-    enrollee utilization.
-
--   Redesigned the Health Home - Care Management Assessment Reporting
-    Tool: [HH CMART3
+-   Redesigned the Care Management Assessment Reporting Tool: [HH CMART3
     Specifications (PDF)](https://www.health.ny.gov/health_care/medicaid/program/medicaid_health_homes/assessment_quality_measures/docs/hh_cmart_specs_v3.pdf).
 
--   As a leading member of the Epidemiology and Biostatistics Community
-    of Practice (EBCoP), developed the [Titanic Introduction To
+-   Developing data-warehouse structure and ETL tools to combine care
+    management data from a number of different data sources.
+
+-   Peer Leader - Epidemiology and Biostatistics Community of
+    Practice (EBCoP). Developed the [Titanic Introduction To
     R](http://choens.github.io/titanic/) workshops to introduce DOH
-    research scientists to the R programming language.
+    research scientists to the R programming language. Manage other
+    Learning Pathways workshops.
+
+Transferred from IPRO to PCG in July because PCG outbid IPRO for the
+contract renewal. The change in employer and job title are misleading. I
+continue to report to the same DOH staff person and have the same
+responsibilities.
 
 Hornby Zeller Associates (HZA) is a consulting firm specializing in
 child welfare, elder care, juvenile justice, and mental health. As a
@@ -89,8 +95,8 @@ Accomplishments:
 -   Presented results to the Assistant Commissioner of the Office of
     Mental Retardation and Developmental Disabilities[^1].
 
-CLINICAL EXPERIENCE
-===================
+CLINICAL SOCIAL WORK EXPERIENCE:
+================================
 
 Delivered in-home services to Albany residents with mental retardation
 and other developmental disabilities. Services included family support,
@@ -109,8 +115,8 @@ support program for high-risk teens using conference calls. Led
 multi-day canoe trips on Indian Lake in the Adirondacks. Facilitated
 team building activities including low and high ropes facilitation.
 
-RESEARCH TOOLS
-==============
+SOFTWARE DEVELOPMENT EXPERIENCE:
+================================
 
 <span>l l</span> <span>**Data Analysis:**</span> R, Python, SAS, SPSS,
 Excel\
@@ -118,8 +124,8 @@ Excel\
 Server, Access\
 <span>**Reproducible Research:**</span> LaTeX, Sweave, knitr, Org-Mode\
 
-EDUCATION
-=========
+EDUCATION:
+==========
 
 <span>p<span>1.5in</span> p<span>2.125in</span>
 p<span>.75in</span></span> Master of Social Work & The State University
@@ -127,7 +133,7 @@ of New York at Albany & Albany, NY 2007\
 Bachelor of International Affairs & Georgia Institute of Technology &
 Atlanta, GA 2002
 
-Updated: 2017-01-10\
+Updated:\
 LaTeXversion of this document available at:
 <https://github.com/Choens/Resume/>
 
