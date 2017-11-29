@@ -1,6 +1,12 @@
 DATA SCIENCE EXPERIENCE:
 ========================
 
+Acuitas is a population health services organization which helps
+physicians and physician practices succeed. In my role as lead Data
+Scientist, responsibilities include development of the Acuitas Data
+Warehouse and collaborating with domain experts to develop physician
+risk scores and quality outcomes.
+
 Embedded consultant with the New York State Department of Health.
 Supervise the evaluation of the State’s diverse care management
 programs. Includes working with external program evaluators and internal
@@ -20,21 +26,22 @@ Accomplishments:
 
 -   Monitor Emergency Department, Inpatient, and Primary Care
     utilization of Medicaid enrollees who agreed to receive care
-    management services. Includes program improvement and
-    pre-post analyses.
+    management services. Includes program improvement and pre-post
+    analyses.
 
 -   Supervise the development and reporting of HEDIS quality metrics as
     listed in New York State’s SPA to State Agency Partners, Health
     Homes and CMS.
 
 -   Redesigned the Care Management Assessment Reporting Tool: [HH CMART3
-    Specifications (PDF)](https://www.health.ny.gov/health_care/medicaid/program/medicaid_health_homes/assessment_quality_measures/docs/hh_cmart_specs_v3.pdf).
+    Specifications
+    (PDF)](https://www.health.ny.gov/health_care/medicaid/program/medicaid_health_homes/assessment_quality_measures/docs/hh_cmart_specs_v3.pdf).
 
 -   Developing data-warehouse structure and ETL tools to combine care
     management data from a number of different data sources.
 
--   Peer Leader - Epidemiology and Biostatistics Community of
-    Practice (EBCoP). Developed the [Titanic Introduction To
+-   Peer Leader - Epidemiology and Biostatistics Community of Practice
+    (EBCoP). Developed the [Titanic Introduction To
     R](http://choens.github.io/titanic/) workshops to introduce DOH
     research scientists to the R programming language. Manage other
     Learning Pathways workshops.
@@ -65,17 +72,17 @@ Accomplishments:
 
 -   Started an internship program and supervised two interns.
 
--   Developed templates and processes to automate the production
-    of reports.
+-   Developed templates and processes to automate the production of
+    reports.
 
--   Provided staff training & support for PostgreSQL, SQL Server, R,
-    and SPSS.
+-   Provided staff training & support for PostgreSQL, SQL Server, R, and
+    SPSS.
 
 -   Mentored junior staff in of research methods and application of
     statistical tests.
 
--   Introduced version control resulting in more reliable,
-    reproducible results.
+-   Introduced version control resulting in more reliable, reproducible
+    results.
 
 Principal Investigator for an exploratory research project which
 established the existence of homeless men and women with borderline
@@ -118,18 +125,15 @@ team building activities including low and high ropes facilitation.
 SOFTWARE DEVELOPMENT EXPERIENCE:
 ================================
 
-<span>l l</span> <span>**Data Analysis:**</span> R, Python, SAS, SPSS,
-Excel\
-<span>**Data Management:**</span> PostgreSQL, MySQL, Vertica, SQL
-Server, Access\
-<span>**Reproducible Research:**</span> LaTeX, Sweave, knitr, Org-Mode\
+[l l]{} [**Data Analysis:**]{} R, Python, SAS, SPSS, Excel\
+[**Data Management:**]{} PostgreSQL, MySQL, Vertica, SQL Server, Access\
+[**Reproducible Research:**]{} LaTeX, Sweave, knitr, Org-Mode\
 
 EDUCATION:
 ==========
 
-<span>p<span>1.5in</span> p<span>2.125in</span>
-p<span>.75in</span></span> Master of Social Work & The State University
-of New York at Albany & Albany, NY 2007\
+[p[1.5in]{} p[2.125in]{} p[.75in]{}]{} Master of Social Work & The State
+University of New York at Albany & Albany, NY 2007\
 Bachelor of International Affairs & Georgia Institute of Technology &
 Atlanta, GA 2002
 
