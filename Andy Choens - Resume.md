@@ -1,14 +1,34 @@
+\name{Andrew Choens, MSW - \Resume}
 DATA SCIENCE EXPERIENCE:
 ========================
 
-Acuitas is a population health services organization which helps
-physicians and physician practices succeed. In my role as lead Data
-Scientist, responsibilities include development of the Acuitas Data
-Warehouse and collaborating with domain experts to develop physician
-risk scores and quality outcomes.
+\employer{\href{https://www.acphs.edu/}{Albany College of Pharmacy and Health Sciences}}
+\dates{Spring 2018 - Present}
+\location{Albany, NY}
+I teach a sophmore level course titled "Intro to Data". This course
+teaches undergraduate students how to answer questions using data. The
+course uses R to enable students to import, manage, and learn from a
+wide variety of data sets.
 
+\employer{\href{http://www.acuitashealth.com/}{Acuitas Health}}
+\dates{September 2017 - Present}
+\location{Troy, NY}
+Acuitas is a population health services organization which helps
+independent primary care providers succeed. At Acuitas, I supervise the
+Department of Data Science and Engineering (DDSE). DDSE is responsible
+for the entire analytics stack. On the engineering side we are
+responsible for all of the ETL processes which feed into our data
+warehouse. On the science side, we are responsible for interpreting the
+data, answering provider questions, and developing statistical and
+machine learning models which can help our providers improve care for
+patients.
+
+\employer{\href{http://www.publicconsultinggroup.com/health/staffingsolutions/index.html}{PCG
+      Staffing Solutions Organization - \\ New York State Department of Health}}
+\dates{July 2017 - August 2017}
+\location{Albany, NY}
 Embedded consultant with the New York State Department of Health.
-Supervise the evaluation of the State’s diverse care management
+Supervise the evaluation of the State's diverse care management
 programs. Includes working with external program evaluators and internal
 stakeholders to understand the impact and effectiveness of care
 management programs and how to improve them.
@@ -19,7 +39,7 @@ are an administrative (case management) intervention for people with
 complex health care needs and high utilization of emergency and
 inpatient services. Care management programs provide integrated,
 supportive, and preventative health care services intended to improve
-participants’ health and well-being while reducing the unnecessary
+participants' health and well-being while reducing the unnecessary
 utilization of inpatient and emergency department services.
 
 Accomplishments:
@@ -30,7 +50,7 @@ Accomplishments:
     analyses.
 
 -   Supervise the development and reporting of HEDIS quality metrics as
-    listed in New York State’s SPA to State Agency Partners, Health
+    listed in New York State's SPA to State Agency Partners, Health
     Homes and CMS.
 
 -   Redesigned the Care Management Assessment Reporting Tool: [HH CMART3
@@ -46,11 +66,18 @@ Accomplishments:
     research scientists to the R programming language. Manage other
     Learning Pathways workshops.
 
+\employer{\href{http://ipro.org/}{IPRO (Island Peer Review Organization) - \\ New York State Department
+      of Health}}
+\dates{March 2014 - June 2017}
+\location{Albany, NY}
 Transferred from IPRO to PCG in July because PCG outbid IPRO for the
 contract renewal. The change in employer and job title are misleading. I
 continue to report to the same DOH staff person and have the same
 responsibilities.
 
+\employer{\href{http://www.hornbyzeller.com}{Hornby Zeller Associates}}
+\dates{September 2007 - March 2014}
+\location{Troy, NY}
 Hornby Zeller Associates (HZA) is a consulting firm specializing in
 child welfare, elder care, juvenile justice, and mental health. As a
 policy analyst, I was responsible for developing research hypotheses and
@@ -62,7 +89,7 @@ of results.
 Example projects:
 
 -   Program / Systems Evaluation: Arkansas (IV-E Waiver), West Virginia
-    (Jacob’s Law), Alaska (Mental Health Beneficiary Program)
+    (Jacob's Law), Alaska (Mental Health Beneficiary Program)
 
 -   Time Study: Virginia, Westchester County, Wisconsin
 
@@ -84,6 +111,9 @@ Accomplishments:
 -   Introduced version control resulting in more reliable, reproducible
     results.
 
+\employer{\href{www.coalitionforthehomeless.org}{Coalition for the Homeless}}
+\dates{September 2006 - June 2007}
+\location{Albany, NY}
 Principal Investigator for an exploratory research project which
 established the existence of homeless men and women with borderline
 intellectual functioning in New York State homeless shelters.
@@ -105,16 +135,25 @@ Accomplishments:
 CLINICAL SOCIAL WORK EXPERIENCE:
 ================================
 
+\employer{\href{http://www.ccrcda.org/}{Catholic Charities}}
+\dates{October 2005 - September 2007}
+\location{Albany, NY}
 Delivered in-home services to Albany residents with mental retardation
 and other developmental disabilities. Services included family support,
 socialization skills, and crisis counseling.
 
+\employer{\href{http://www.josephshousetroy.org}{Joseph's House \& Shelter}}
+\dates{September 2005 - May 2006}
+\location{Troy, NY}
 Worked with homeless guests to find housing and income in the form of
 jobs or social services such as SSD. Addressed other needs on a
 case-by-case basis. Developed a Guest Satisfaction Survey for the
 shelter. Surveyed guests in the shelter during the winter of 2005 -
 2006.
 
+\employer{\href{http://www.ramapoforchildren.org/}{Ramapo for Children}}
+\dates{June 2003 - September 2005}
+\location{Rhinebeck, NY}
 Supervised an outdoor experiential program for teens with developmental
 disabilities and mental health diagnoses. Responsibilities included
 staff supervision and program development. Implemented a unique peer
@@ -125,20 +164,25 @@ team building activities including low and high ropes facilitation.
 SOFTWARE DEVELOPMENT EXPERIENCE:
 ================================
 
-[l l]{} [**Data Analysis:**]{} R, Python, SAS, SPSS, Excel\
-[**Data Management:**]{} PostgreSQL, MySQL, Vertica, SQL Server, Access\
-[**Reproducible Research:**]{} LaTeX, Sweave, knitr, Org-Mode\
+  --------------------------------------------------------------------- --
+  **Data Analysis:** R, Python, SAS, SPSS, Excel                        
+  **Data Management:** PostgreSQL, MySQL, Vertica, SQL Server, Access   
+  **Reproducible Research:** LaTeX, Sweave, knitr, Org-Mode             
+  --------------------------------------------------------------------- --
 
 EDUCATION:
 ==========
 
-[p[1.5in]{} p[2.125in]{} p[.75in]{}]{} Master of Social Work & The State
-University of New York at Albany & Albany, NY 2007\
-Bachelor of International Affairs & Georgia Institute of Technology &
-Atlanta, GA 2002
+  ----------------------------------- -------------------------------------------- ------------------
+  Master of Social Work               The State University of New York at Albany   Albany, NY 2007
+  Bachelor of International Affairs   Georgia Institute of Technology              Atlanta, GA 2002
+  ----------------------------------- -------------------------------------------- ------------------
 
+\vspace{.25in}
 Updated:\
 LaTeXversion of this document available at:
 <https://github.com/Choens/Resume/>
+
+\vspace{.125in}
 
 [^1]: Now called the Office for People With Developmental Disabilities.
