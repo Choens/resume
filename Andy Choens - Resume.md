@@ -14,14 +14,19 @@ wide variety of data sets.
 \dates{September 2017 - Present}
 \location{Troy, NY}
 Acuitas is a population health services organization which helps
-independent primary care providers succeed. At Acuitas, I supervise the
-Department of Data Science and Engineering (DDSE). DDSE is responsible
-for the entire analytics stack. On the engineering side we are
-responsible for all of the ETL processes which feed into our data
-warehouse. On the science side, we are responsible for interpreting the
-data, answering provider questions, and developing statistical and
-machine learning models which can help our providers improve care for
-patients.
+independent primary care providers succeed. 
+
+Lead the development of a data science team at small startup in
+upstate New York, focused on leveraging a combination of EHR and
+claims data into knowledge for payer and provider
+stakeholders. Provided clients with data and insight to help them
+succeed on federal reporting measures such as HEDIS and coding
+standards such as HCC. Helped stakeholders develop analytical/research
+questions and lead efforts to answer these questions.
+
+Lead efforts to develop an open and safe corporate culture where
+taking risks was accepted as part of being innovative and treating
+team members with dignity and respect was an expectation, not a bonus.
 
 \employer{\href{http://www.publicconsultinggroup.com/health/staffingsolutions/index.html}{PCG
       Staffing Solutions Organization - \\ New York State Department of Health}}
