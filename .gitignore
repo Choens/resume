@@ -39,4 +39,5 @@ projects.pdf
 .externalToolBuilders/
 .project
 .texlipse
+.vscode/*
 tmp
